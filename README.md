@@ -167,33 +167,40 @@ def test__files_recently_created_delete():
 
 #### 4. A continuación se abre una ventana o pestaña nueva en el navegador web, se ingresa la dirección ip mas el puerto, tal cual como se muestra a continuación.
 
-// imagen ingreso a jenkins
+![GitHub Logo](https://github.com/carlostrullo/parcial_dos/blob/master/ingreso%20a%20jenkins.png)
 
 #### 5. se da click en nueva tarea, se seleciona "crear un proyecto de estilo libre" y se coloca un nombre (puede ser de su preferencia).
-//imagen crear proyecto
+![GitHub Logo](https://github.com/carlostrullo/parcial_dos/blob/master/nombre%20proyecto.png)
 
 #### 6. A partir de este punto empiezan las configuraciones de la prueba con jenkins. el primer paso es especificar que tipo de proyecto es y donde se encuentra
-
-// github project
+![GitHub Logo](https://github.com/carlostrullo/parcial_dos/blob/master/github%20project.png)
 
 #### 7. Luego seleccionar el origen del código
-//codigo fuente
-
+![GitHub Logo](https://github.com/carlostrullo/parcial_dos/blob/master/codigo%20fuente.png)
 
 #### 8. Se fija cada cuanto tiempo se va ejecutar la prueba
+![GitHub Logo](https://github.com/carlostrullo/parcial_dos/blob/master/tiempo%20de%20ejecucion.png)
 
-// tiempo
+#### 9. El codigo shell son comandos que jenkins ejecutará dentro de la maquina virtual centos, en este caso se usaran los siguientes
+![GitHub Logo](https://github.com/carlostrullo/parcial_dos/blob/master/codigo%20shell.png)
 
-#### 9. código shell
-//
-
-#### 10. código shell
-#### 11. cobertura
+#### 10. Ruta de archivos de cobertura
+![GitHub Logo](https://github.com/carlostrullo/parcial_dos/blob/master/cobertura.png)
 
 #### 12. htmlcov
-#### 13. xml Junit
-#### 14. contruir ahora
-#### 15. contruir ahora
+![GitHub Logo](https://github.com/carlostrullo/parcial_dos/blob/master/htmlcov.png)
+
+#### 13. Archivo en formato xml que guarda el resultado del test
+![GitHub Logo](https://github.com/carlostrullo/parcial_dos/blob/master/pythonxml.png)
+
+#### 14. Luego de guardar los cambios, en la parte izquierda se procede a dar clic al botón contruir ahora, se espera unos segundos y se tendra el resultado de la prueba.
+
+![GitHub Logo](https://github.com/carlostrullo/parcial_dos/blob/master/construir%20ahora.png)
+
+
+#### 15. La prueba se seguirá ejecutando mientras el servicio jenkins esté activo, por tanto si se da clic en cualquiera de los puntos de color gris de la parta inferior del lado izquierdo saldrá algo como lo siguiente.
+
+![GitHub Logo](https://github.com/carlostrullo/parcial_dos/blob/master/resultado.png)
 
 
 
