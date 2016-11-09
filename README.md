@@ -187,18 +187,18 @@ def test__files_recently_created_delete():
 #### 10. Ruta de archivos de cobertura
 ![GitHub Logo](https://github.com/carlostrullo/parcial_dos/blob/master/cobertura.png)
 
-#### 12. htmlcov
+#### 11. htmlcov
 ![GitHub Logo](https://github.com/carlostrullo/parcial_dos/blob/master/htmlcov.png)
 
-#### 13. Archivo en formato xml que guarda el resultado del test
+#### 12. Archivo en formato xml que guarda el resultado del test
 ![GitHub Logo](https://github.com/carlostrullo/parcial_dos/blob/master/pythonxml.png)
 
-#### 14. Luego de guardar los cambios, en la parte izquierda se procede a dar clic al botón contruir ahora, se espera unos segundos y se tendra el resultado de la prueba.
+#### 13. Luego de guardar los cambios, en la parte izquierda se procede a dar clic al botón contruir ahora, se espera unos segundos y se tendra el resultado de la prueba.
 
 ![GitHub Logo](https://github.com/carlostrullo/parcial_dos/blob/master/construir%20ahora.png)
 
 
-#### 15. La prueba se seguirá ejecutando mientras el servicio jenkins esté activo, por tanto si se da clic en cualquiera de los puntos de color gris de la parta inferior del lado izquierdo saldrá algo como lo siguiente.
+#### 14. La prueba se seguirá ejecutando mientras el servicio jenkins esté activo, por tanto si se da clic en cualquiera de los puntos de color gris de la parta inferior del lado izquierdo saldrá algo como lo siguiente.
 
 ![GitHub Logo](https://github.com/carlostrullo/parcial_dos/blob/master/resultado.png)
 
